@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Sunday",
+    "icon": "images/lava.png",
+    "temp": "145°C",
+    "desc": "Molten skies"
+  },
+  {
+    "day": "Monday",
+    "icon": "images/volcano.png",
+    "temp": "148°C",
+    "desc": "Eruption chances"
+  },
+  {
+    "day": "Tuesday",
+    "icon": "images/cloud.png",
+    "temp": "130°C",
+    "desc": "Ashy overcast"
+  },
+  {
+    "day": "Wednesday",
+    "icon": "images/wind.png",
+    "temp": "135°C",
+    "desc": "Hot winds"
+  },
+  {
+    "day": "Thursday",
+    "icon": "images/sun.png",
+    "temp": "155°C",
+    "desc": "Scorching sun"
+  },
+  {
+    "day": "Friday",
+    "icon": "images/tornado.png",
+    "temp": "138°C",
+    "desc": "Volcanic haze"
+  },
+  {
+    "day": "Saturday",
+    "icon": "images/tornado.png",
+    "temp": "160°C",
+    "desc": "Fiery tornadoes"
+  }
+]
