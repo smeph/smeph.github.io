@@ -110,25 +110,25 @@
         const todayIndex = new Date().getDay();
         const rotated = [...data.slice(todayIndex), ...data.slice(0, todayIndex)];
 
-        // Show today
-        const today = rotated[0];
-        document.getElementById('location').textContent = `Mount Doom - ${today.day}`;
-        document.getElementById('icon').textContent = today.icon;
-        document.getElementById('temp').textContent = today.temp;
-        document.getElementById('desc').textContent = today.desc;
+    // Show today
+    const today = rotated[0];
+    document.getElementById('location').textContent = `Mount Doom - ${today.day}`;
+    document.getElementById('icon').innerHTML = `<img src="${today.icon}" alt="${today.day}" style="width: 50px; height: 50px;">`;
+    document.getElementById('temp').textContent = `${today.low} - ${today.high}`;
+    document.getElementById('desc').textContent = today.desc;
 
-        // Show next 6 days
-        const forecastList = document.getElementById("forecastList");
-        for (let i = 1; i < 7; i++) {
-          const item = rotated[i];
-          const div = document.createElement("div");
-          div.className = "forecast-item";
-          div.innerHTML = `
-            <div>${item.day}</div>
-            <div>${item.icon} ${item.temp}</div>
-          `;
-          forecastList.appendChild(div);
-        }
+    // Show next 6 days
+    const forecastList = document.getElementById("forecastList");
+    for (let i = 1; i < 7; i++) {
+      const item = rotated[i];
+      const div = document.createElement("div");
+      div.className = "forecast-item";
+      div.innerHTML = `
+        <div>${item.day}</div>
+        <div><img src="${item.icon}" alt="${item.day}" style="width: 30px; height: 30px;"> ${item.low} - ${item.high}</div>
+      `;
+      forecastList.appendChild(div);
+    }
       })
       .catch(err => {
         document.getElementById("location").textContent = "Failed to load data.";
