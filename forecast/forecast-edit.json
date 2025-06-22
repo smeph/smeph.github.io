@@ -1,51 +1,51 @@
 [
   {
     "day": "Sunday",
-    "icon": "images/lava.png",
-    "high": "10:00am",
-    "low": "5:00am",
-    "desc": "Molten skies"
+    "icon": "😀",
+    "high": "10:00 am",
+    "low": "5:00 am",
+    "desc": "Land Ahoy"
   },
   {
     "day": "Monday",
-    "icon": "images/volcano.png",
-    "high": "6:00pm",
-    "low": "8:00pm",
-    "desc": "Eruption chances"
+    "icon": "🫥",
+    "high": "6:00 pm",
+    "low": "8:00 pm",
+    "desc": "Uh..."
   },
   {
     "day": "Tuesday",
-    "icon": "images/cloud.png",
-    "high": "6:00pm",
-    "low": "8:00pm",
-    "desc": "Ashy overcast"
+    "icon": "🫥",
+    "high": "6:00 pm",
+    "low": "8:00 pm",
+    "desc": "Uh..."
   },
   {
     "day": "Wednesday",
-    "icon": "images/wind.png",
-    "high": "6:00pm",
-    "low": "8:00pm",
-    "desc": "Hot winds"
+    "icon": "🫥",
+    "high": "6:00 pm",
+    "low": "8:00 pm",
+    "desc": "Uh..."
   },
   {
     "day": "Thursday",
-    "icon": "images/sun.png",
-    "high": "6:00pm",
-    "low": "8:00pm",
-    "desc": "Scorching sun"
+    "icon": "🫥",
+    "high": "6:00 pm",
+    "low": "8:00 pm",
+    "desc": "Uh..."
   },
   {
     "day": "Friday",
-    "icon": "images/tornado.png",
-    "high": "5:00pm",
-    "low": "11:00pm",
-    "desc": "Volcanic haze"
+    "icon": "🙂",
+    "high": "5:00 pm",
+    "low": "11:00 pm",
+    "desc": "Oop"
   },
   {
     "day": "Saturday",
-    "icon": "images/tornado.png",
-    "high": "10:am°C",
-    "low": "10:00pm°C",
-    "desc": "Fiery tornadoes"
+    "icon": "😀",
+    "high": "10:00 am",
+    "low": "10:00 pm",
+    "desc": "Yea time"
   }
 ]
