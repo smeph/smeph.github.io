@@ -1,9 +1,51 @@
 [
-  { "day": "Sunday", "icon": "🔥", "temp": "145°C", "desc": "Molten skies" },
-  { "day": "Monday", "icon": "🌋", "temp": "148°C", "desc": "Eruption chances" },
-  { "day": "Tuesday", "icon": "☁️", "temp": "130°C", "desc": "Ashy overcast" },
-  { "day": "Wednesday", "icon": "💨", "temp": "135°C", "desc": "Hot winds" },
-  { "day": "Thursday", "icon": "🌞", "temp": "155°C", "desc": "Scorching sun" },
-  { "day": "Friday", "icon": "🌫️", "temp": "138°C", "desc": "Volcanic haze" },
-  { "day": "Saturday", "icon": "🌪️", "temp": "160°C", "desc": "Fiery tornadoes" }
+  {
+    "day": "Sunday",
+    "icon": "images/lava.png",
+    "high": "145°C",
+    "low": "140°C",
+    "desc": "Molten skies"
+  },
+  {
+    "day": "Monday",
+    "icon": "images/volcano.png",
+    "high": "148°C",
+    "low": "140°C",
+    "desc": "Eruption chances"
+  },
+  {
+    "day": "Tuesday",
+    "icon": "images/cloud.png",
+    "high": "130°C",
+    "low": "125°C",
+    "desc": "Ashy overcast"
+  },
+  {
+    "day": "Wednesday",
+    "icon": "images/wind.png",
+    "high": "135°C",
+    "low": "130°C",
+    "desc": "Hot winds"
+  },
+  {
+    "day": "Thursday",
+    "icon": "images/sun.png",
+    "high": "155°C",
+    "low": "150°C",
+    "desc": "Scorching sun"
+  },
+  {
+    "day": "Friday",
+    "icon": "images/tornado.png",
+    "high": "138°C",
+    "low": "130°C",
+    "desc": "Volcanic haze"
+  },
+  {
+    "day": "Saturday",
+    "icon": "images/tornado.png",
+    "high": "160°C",
+    "low": "150°C",
+    "desc": "Fiery tornadoes"
+  }
 ]
