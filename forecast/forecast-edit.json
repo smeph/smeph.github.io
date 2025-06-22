@@ -2,50 +2,50 @@
   {
     "day": "Sunday",
     "icon": "images/lava.png",
-    "high": "145°C",
-    "low": "140°C",
+    "high": "10:00am",
+    "low": "5:00am",
     "desc": "Molten skies"
   },
   {
     "day": "Monday",
     "icon": "images/volcano.png",
-    "high": "148°C",
-    "low": "140°C",
+    "high": "6:00pm",
+    "low": "8:00pm",
     "desc": "Eruption chances"
   },
   {
     "day": "Tuesday",
     "icon": "images/cloud.png",
-    "high": "130°C",
-    "low": "125°C",
+    "high": "6:00pm",
+    "low": "8:00pm",
     "desc": "Ashy overcast"
   },
   {
     "day": "Wednesday",
     "icon": "images/wind.png",
-    "high": "135°C",
-    "low": "130°C",
+    "high": "6:00pm",
+    "low": "8:00pm",
     "desc": "Hot winds"
   },
   {
     "day": "Thursday",
     "icon": "images/sun.png",
-    "high": "155°C",
-    "low": "150°C",
+    "high": "6:00pm",
+    "low": "8:00pm",
     "desc": "Scorching sun"
   },
   {
     "day": "Friday",
     "icon": "images/tornado.png",
-    "high": "138°C",
-    "low": "130°C",
+    "high": "5:00pm",
+    "low": "11:00pm",
     "desc": "Volcanic haze"
   },
   {
     "day": "Saturday",
     "icon": "images/tornado.png",
-    "high": "160°C",
-    "low": "150°C",
+    "high": "10:am°C",
+    "low": "10:00pm°C",
     "desc": "Fiery tornadoes"
   }
 ]
